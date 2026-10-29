@@ -1,5 +1,7 @@
 # •‑‑‑ zerodot
 
+By [7 Angle](https://7angle.com).
+
 Minimal, self-hosted workflow automation. You own your workflow files.
 
 ![The zerodot workflow editor](https://raw.githubusercontent.com/zerodot-io/.github/main/profile/mock.png)
